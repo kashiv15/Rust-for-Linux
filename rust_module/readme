@@ -1,0 +1,3 @@
+sudo dnf install llvm clang linux-headers-"$(uname -r)" 
+
+rustup component add --toolchain=nightly rust-src rustfmt

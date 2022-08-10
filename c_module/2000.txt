@@ -1,0 +1,12 @@
+Avg time for Linked list insert for 2000 elements took 2362336 ticks
+Avg time for Hash Table insert for 2000 elements took 2238270 ticks
+Avg time for RB Tree insert for 2000 elements took 3356200 ticks
+Avg time for XArray insert for 2000 elements took 183642 ticks
+Avg time for Linked list find for 2000 elements took 266188 ticks
+Avg time for Hash Table find for 2000 elements took 462826 ticks
+Avg time for RB Tree find for 2000 elements took 2914 ticks
+Avg time for XArray find for 2000 elements took 43588 ticks
+Avg time for Linked list increment for 2000 elements took 424888 ticks
+Avg time for Hash Table increment for 2000 elements took 481782 ticks
+Avg time for RB Tree increment for 2000 elements took 442984 ticks
+Avg time for XArray increment for 2000 elements took 170310 ticks

@@ -1,0 +1,12 @@
+Avg time for Linked list insert for 1000 elements took 1334624 ticks
+Avg time for Hash Table insert for 1000 elements took 1091110 ticks
+Avg time for RB Tree insert for 1000 elements took 1859368 ticks
+Avg time for XArray insert for 1000 elements took 98268 ticks
+Avg time for Linked list find for 1000 elements took 133458 ticks
+Avg time for Hash Table find for 1000 elements took 126974 ticks
+Avg time for RB Tree find for 1000 elements took 2740 ticks
+Avg time for XArray find for 1000 elements took 24228 ticks
+Avg time for Linked list increment for 1000 elements took 107582 ticks
+Avg time for Hash Table increment for 1000 elements took 229818 ticks
+Avg time for RB Tree increment for 1000 elements took 231568 ticks
+Avg time for XArray increment for 1000 elements took 42328 ticks
